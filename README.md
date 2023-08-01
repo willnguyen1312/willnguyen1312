@@ -4,9 +4,9 @@ My name is Nam Nguyen. I am passionate about software development. I see how the
 
 I have worked on several free open-source software with the mission to make the world a better place via quality software:
 
-- <a href="https://willnguyen1312.github.io/zoom-image" rel="noopener noreferrer" target="_blank">Zoom Image</a>
-- <a href="https://willnguyen1312.github.io/headlessplayback" rel="noopener noreferrer" target="_blank">Headless Playback</a>
-- <a href="https://willnguyen1312.github.io/socialplayer" rel="noopener noreferrer" target="_blank">Social Player</a>
+- [**Zoom Image**](https://willnguyen1312.github.io/zoom-image)
+- [**Headless Playback**](https://willnguyen1312.github.io/headlessplayback)
+- [**Social Player**](https://willnguyen1312.github.io/socialplayer)
 
 I have a personal blog [namnguyen.design](https://namnguyen.design) where I share my knowledge in software development and life experience
 
