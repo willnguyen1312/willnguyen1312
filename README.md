@@ -7,7 +7,7 @@ I have worked on several free open-source software with the mission to make the 
 - [**Zoom Image**](https://willnguyen1312.github.io/zoom-image)
 - [**Headless Playback**](https://willnguyen1312.github.io/headlessplayback)
 - [**Social Player**](https://willnguyen1312.github.io/socialplayer)
-- [**Open Polaris**](https://github.com/willnguyen1312/openpolaris)
+- [**Open Polaris**](https://openpolaris.netlify.app/)
 
 I have a personal blog [namnguyen.design](https://namnguyen.design) where I share my knowledge in software development and life experience
 
